@@ -1,6 +1,6 @@
 # Intro training path for CTO intern/ELP/Pathways staff
 
-## Getting Started (about 2 weeks)
+## Getting Started
 Start working through the list below:
 * Review the [GSA GitHub policy](https://github.com/GSA/GitHub-Administration). Create/update your GitHub account, following these instructions.
 * Review the tech talk on [version control](https://saracope.github.io/github-techtalk/#/).
@@ -36,6 +36,9 @@ Session 2:
 Next: 
 * Review lessons 1,3, & 5 of the [Jekyll tutorial](https://www.lynda.com/Jekyll-tutorials/7855-0.html) on Lynda.com (check for free membership through your local libarary)
 * Read about Markdown and review md [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+## Working in Github
 
 Session 4:
 * Walk through the GitHub interface, create a project, making changes, commits, branches and pull requests and forking.
