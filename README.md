@@ -34,7 +34,7 @@ Session 2:
 * Assign additional practice drills as needed
 
 Next: 
-* Review lessons 1,3, & 5 of the [Jekyll tutorial](https://www.lynda.com/Jekyll-tutorials/7855-0.html) on Lynda.com (check for free membership through your local libarary)
+* Review lessons 1,3, & 5 of the [Jekyll tutorial](https://www.lynda.com/Jekyll-tutorials/7855-0.html) on Lynda.com (check for free membership through your local library)
 * Read about Markdown and review md [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
@@ -43,7 +43,7 @@ Next:
 Session 4:
 * Walk through the GitHub interface, create a project, making changes, commits, branches and pull requests and forking.
 * Create your own GitHub repo and commit changes to it in a branch. Merge those changes in.
-* Fork a project and make changes to it. Itegrate those changes back to the original project.
+* Fork a project and make changes to it. Integrate those changes back to the original project.
 
 Session 5: 
 * Walk through the CTO GH site. 
