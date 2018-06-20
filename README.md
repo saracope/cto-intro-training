@@ -4,7 +4,9 @@
 Start working through the list below:
 * Review the [GSA GitHub policy](https://github.com/GSA/GitHub-Administration). Create/update your GitHub account, following these instructions.
 * Review the tech talk on [version control](https://saracope.github.io/github-techtalk/#/).
-* Enter a ServiceNow ticket to have the following software added to your GFE:
+* Enter a ServiceNow ticket to have the following software added to your GFE (if needed):
+  * Ruby
+  * Node
   * GitHub Desktop
   * Sublime Text 3
 * Start the [HTML & CSS intro course](https://www.codecademy.com/learn/learn-html-css) on Codecademy (free).
